@@ -1,0 +1,6 @@
+[submodule "Cartoon"]
+	path = Cartoon
+	url = https://github.com/SeraphMichael1/CISC-3160-Cartoon
+[submodule "in-class lab 1"]
+	path = in-class lab 1
+	url = https://github.com/CISC-3610-In-Class-Lab1
