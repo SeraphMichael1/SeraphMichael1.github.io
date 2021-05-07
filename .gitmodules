@@ -4,3 +4,6 @@
 [submodule "in-class lab 1"]
 	path = in-class lab 1
 	url = https://github.com/CISC-3610-In-Class-Lab1
+[submodule "Lab 2"]
+	path = Lab 2
+	url = https://github.com/CISC-3160-Lab-2
