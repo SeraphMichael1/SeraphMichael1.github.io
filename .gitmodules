@@ -1,12 +1,12 @@
 [submodule "Cartoon"]
 	path = Cartoon
-	url = https://github.com/SeraphMichael1/CISC-3160-Cartoon
+	url = https://github.com/SeraphMichael1/CISC-3610-Cartoon
 [submodule "Animation"]
 	path = Animation
-	url = https://github.com/SeraphMichael1/CISC-3160-Animation
+	url = https://github.com/SeraphMichael1/CISC-3610-Animation
 [submodule "Data Visualization"]
 	path = Data Visualization
-	url = https://github.com/SeraphMichael1/CISC-3160-Data-Visualization
+	url = https://github.com/SeraphMichael1/CISC-3610-Data-Visualization
 [submodule "in-class lab 1"]
 	path = in-class lab 1
 	url = https://github.com/SeraphMichael1/CISC-3610-In-Class-Lab1
